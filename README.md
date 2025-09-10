@@ -56,6 +56,10 @@ Desarrollar un sistema de facturación empresarial que permita a las empresas ge
 - Documentación con manual de usuario y manual técnico.  
 
 ---
+## Diagrama de Ishikawa
+![Diagrama Ishikawa]([https://github.com/TU_USUARIO/TU_REPO/blob/main/images/Beige%20and%20Brown%20Simple%20Modern%20Fishbone%20Diagram%20Graph.png?raw=true](https://github.com/juannietoma-source/propuesta-proyecto-grado/blob/main/Beige%20and%20Brown%20Simple%20Modern%20Fishbone%20Diagram%20Graph.png))
+
+---
 
 ## Autor
 - Juan Felipe Nieto Manjarres  
