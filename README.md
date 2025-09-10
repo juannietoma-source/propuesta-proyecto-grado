@@ -57,7 +57,7 @@ Desarrollar un sistema de facturación empresarial que permita a las empresas ge
 
 ---
 ## Diagrama de Ishikawa
-![Diagrama Ishikawa](Beige and Brown Simple Modern Fishbone Diagram Graph.png)
+![Diagrama Ishikawa](Diagrama.png)
 
 ---
 
